@@ -258,17 +258,17 @@ GROUP BY category;
 
 ## Findings and Conclusion
 
-- **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
-- **Common Ratings:** Insights into the most common ratings provide an understanding of the content's target audience.
-- **Geographical Insights:** The top countries and the average content releases by India highlight regional content distribution.
-- **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
+- **Content Distribution:** The dataset contains a diverse mix of movies and TV shows distributed across varied ratings and genres, allowing for wide audience tracking.
+- **Common Ratings:** Insightful breakdown into the most common age maturity groups, highlighting whether Netflix targets more mature audiences (e.g., TV-MA) or family demographics.
+- **Geographical Insights:** The analytical scripts trace where content originates, identifying the top global hubs (like the US, India, etc.) alongside detailed historical trendlines for regional content generation.
+- **Content Categorization:** Categorizing titles based on thematic descriptive keywords (like filtering tags for "violence" or isolating specific genres like "Documentaries") creates a strategic profile map of Netflix’s programming nature.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
 
 
-## Author - Aaditya
+## Author - Aaditya Kumar
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feel free to get in touch!
 
 Thank you for your support, and I look forward to connecting with you!
